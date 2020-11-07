@@ -137,7 +137,7 @@ Any change resulting from this transaction will be sent to this address. You can
 
 `delegationFeeRate`
 
-Avalanche allows for delegation of stake. This parameter is the percent fee this validator charges when others delegate stake to them. For example, if `delegationFeeRate` is `1.2345` and someone delegates to this validator, then when the delegation period is over, 1.2345% of the reward goes to the validator and the rest goes to the delegator.
+Avalanche allows for delegation of stake. This parameter is the percent fee this validator charges when others delegate stake to them. For example, if `delegationFeeRate` is `2.2345` and someone delegates to this validator, then when the delegation period is over, 2.2345% of the reward goes to the validator and the rest goes to the delegator.
 
 `username` and `password`
 
